@@ -1,0 +1,16 @@
+{
+    "name": "aws_route53",
+    "version": "1.0.0",
+    "description": "AWS Route53 editor",
+    "main": "src/main.js",
+    "private": true,
+    "dependencies": {
+      "aws-sdk": "^2.5.2",
+      "line-reader": "*",
+      "sleep": "*"
+    },
+    "engines": {
+      "node": ">= 8.0.0",
+      "npm": ">= 3.0.0"
+    }
+  }
